@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criando um site em HTML </title>
+
+    </script>
+</head>
+
+<body>
+    <h1><strong>Criando um site em <abbr title="Linguagem de Marcação de Hipertexto">HTML</abbr></strong></h1>
+    <h2>Um guia geral</h2>
+    <hr>
+    <blockquote cite="https://developer.mozilla.org/pt-BR/docs/learn/getting_started_with_the_web/html_basics">
+        HTML (Linguagem de Marcação de Hipertexto) é o código que você usa para estruturar uma página web e seu
+        conteúdo. Por exemplo, o conteúdo pode ser estruturado em parágrafos, em uma lista com marcadores ou usando
+        imagens e tabelas. Como o título sugere, este artigo fornecerá uma compreensão básica do HTML e suas funções.
+    </blockquote>
+    <h3>Índice</h2>
+        <ul>
+            <li><a href="#editor">Escolha um editor de texto</a></li>
+            <li><a href="#projeto">Defina o projeto web</a></li>
+            <li><a href="#codigo">Estruture o código HTML</a></li>
+            <li><a href="#conteudo">Crie um conteúdo para sua página web</a></li>
+            <li><a href="#links">Adicione links e cores ao texto</a></li>
+            <li><a href="#finalize">Finalize sua página web</a></li>
+            <li><a href="#referencias">Referências</a></li>
+        </ul>
+
+        <h4 id="editor">Escolha um editor de texto</h4>
+        <p>
+            Existem muitos editores de texto disponíveis, tanto gratuitos quanto pagos.
+            Alguns exemplos são o Sublime Text, o Visual Studio Code e o Notepad++. Escolha o que melhor se adapta às
+            suas
+            necessidades.
+        </p>
+
+        <h4 id="projeto">Defina o projeto web</h4>
+        <p>
+            Antes de começar a escrever o código HTML, é importante definir o escopo do seu projeto.
+            Pense em como você quer que seu site seja estruturado e quais páginas você deseja incluir.
+        </p>
+
+        <h4 id="codigo">Estruture o código HTML</h4>
+        <p>
+            O HTML é uma linguagem de marcação que permite descrever o layout, organizar e formatar uma página web.
+            Para começar, você precisa conhecer e utilizar os principais elementos que compõem essa linguagem.
+            Esses elementos são como blocos de construção que permitem estruturar seu site e exibir o conteúdo de forma
+            organizada.
+            Abaixo, listamos alguns dos principais elementos HTML que você precisa conhecer:
+        <p>
+        <ul>
+            <li>&lt;!DOCTYPE html&gt;: Esse elemento define o tipo de documento HTML que você está criando.</li>
+            <li>&lt;html&gt;: Esse elemento é o contêiner raiz de todo o documento HTML.</li>
+            <li>&lt;head&gt;: Esse elemento contém informações sobre o documento, como o título da página e os links
+                para
+                arquivos CSS e JavaScript.</li>
+            <li>&lt;body&gt;: Esse elemento contém todo o conteúdo visível da página, como texto, imagens e vídeos.</li>
+            <li>&lt;h1&gt; a &lt;h6&gt;: Esses elementos são usados para criar títulos e subtítulos.</li>
+            <li>&lt;p&gt;: Esse elemento é usado para criar parágrafos.</li>
+        </ul>
+
+        <h4 id="conteudo">Crie um conteúdo para sua página web</h4>
+        <p>
+            Agora que você já sabe como estruturar o código HTML, é hora de criar o conteúdo da sua página.
+            Pense em como você quer que seu site seja apresentado e crie o conteúdo de acordo.
+        </p>
+
+        <h4 id="links">Adicione links e cores ao texto</h4>
+        <p>
+            Para tornar seu site mais interativo e atraente, você pode adicionar links e cores ao texto.
+            Os links permitem que os usuários naveguem para outras páginas da web, enquanto as cores podem ser usadas
+            para
+            destacar informações importantes.
+        </p>
+
+        <h4 id="finalize">Finalize sua página web</h4>
+        <p>
+            <u>Depois de criar o conteúdo e adicionar os links e cores, é hora de finalizar sua página web. Verifique se
+                tudo está funcionando corretamente e faça os ajustes necessários.</u>
+        </p>
+
+        <h5 id="referencias"><mark>Referências</mark></h5>
+        <ol>
+            <li><a href="https://www.w3schools.com/html/" target="_blank"
+                    rel="noopener"><small><i>www.w3schools.com</i></small></li>
+            <li><a href="https://developer.mozilla.org/pt-BR/" target="_blank"
+                    rel="noopener"><small><i>developer.mozilla.org</i></small></a></li>
+        </ol>
+
+        <h6>Desenvolvido por Victor Menezes</h6>
+</body>
+
+</html>
